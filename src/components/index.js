@@ -1,0 +1,5 @@
+export * from "./CardPokemon"
+export * from "./PokemonList"
+export * from "./Loader"
+export * from "./FilterBar"
+export * from "./Navegation"
